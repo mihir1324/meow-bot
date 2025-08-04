@@ -1,1 +1,1 @@
-web: node index.js
+worker: python meow_bot.py
